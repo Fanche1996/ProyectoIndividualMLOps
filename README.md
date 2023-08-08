@@ -23,7 +23,7 @@ Mire las distribuciones de las columnas que crei que eran mas significantes. Y l
 
 ## Cuarto paso
 
-Analisando el EDA, pude observar que las correlaciones con los precios no eran significativamente grandes, sino que mas bien eran debiles. Por lo tanto tome la decision de que para mi prediccion iba a utilizar mas de una. Utilice las que pedian en la consigna "Early Acces" y "Genred" y a eso le agregue "release_date (Year)", metascore y sentiment.
+Analisando el EDA, pude observar que las correlaciones con los precios no eran significativamente grandes, sino que mas bien eran debiles. Por lo tanto tome la decision de que para mi prediccion iba a utilizar mas de una. Utilice las que pedian en la consigna "Early Acces" y "Genred" y a eso le agregue "release_date (Year)", metascore y sentiment (IMPORTANTE : Sentiments es un numero del -3 (Muy negativo) al 4 (Muy positivo).)
 
 ## Quinto paso
 
