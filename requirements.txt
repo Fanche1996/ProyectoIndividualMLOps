@@ -93,8 +93,6 @@ PySocks
 pyspark
 python-dateutil
 pytz
-pywin32
-pyzmq
 requests
 requests-oauthlib
 rsa
