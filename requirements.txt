@@ -66,13 +66,13 @@ ml-dtypes
 multitasking
 mysql-connector-python
 nest-asyncio
-numpy==1.23.5
+numpy
 oauth2client
 oauthlib
 openpyxl
 opt-einsum
 packaging
-pandas==1.5.3
+pandas
 parso
 pickleshare
 Pillow
