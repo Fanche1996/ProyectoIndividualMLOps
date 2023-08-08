@@ -88,7 +88,6 @@ pyasn1-modules==0.2.8
 pycparser==2.21
 pydantic==1.10.10
 Pygments==2.14.0
-PyMySQL==1.0.3
 pyparsing==3.0.9
 PySocks==1.7.1
 pyspark==3.4.0
@@ -129,4 +128,4 @@ webencodings==0.5.1
 Werkzeug==2.2.3
 wordcloud==1.9.2
 wrapt==1.14.1
-yfinance==0.2.14
+
